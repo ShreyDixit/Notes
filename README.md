@@ -1,4 +1,4 @@
-# Notes
+# Notes for Neuroscience
 
 
 | Course | Link | Notes |
